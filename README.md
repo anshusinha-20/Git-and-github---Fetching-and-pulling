@@ -1,0 +1,2 @@
+# Fepul
+**Fepul** is the directory made for the demonstration of the project on fetching and pulling. It contains two text files **apple.txt** and **nokia.txt**. Both the text files contain some products of the same brand.
